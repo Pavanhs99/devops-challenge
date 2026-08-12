@@ -27,7 +27,7 @@ spec:
 
           env:
             - name: REDIS_HOST
-              value: redis-wrong
+              value: redis
             - name: REDIS_PORT
               value: "6379"
 
